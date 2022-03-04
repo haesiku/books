@@ -8,7 +8,7 @@
 프로젝트 실패에 대한 두려움으로 산출물을 요구하는 프로세스 만들고 의지하게 된다. 그러나 이것만으로 모든 오류나 예외를 예방할 수 없을 뿐 아니라 시간과 인력의 리소스를 많이 쓰게 된다. 계속 발견되는 오류나 예외를 방지하기 위해 점점 더 복잡하고 반복적인 프로세스를 만드는 악순환을 거쳐 프로세스를 더 복잡해지게 된다.
 그래서 2001년 초, 소프트웨어 팀이 빠르게 일하고 변화에 유연하게 대응할 수 있도록 하는 가치와 원칙을 세우기 위한 모임, 애자일 연합이 만들어지게 되고 "애자일 소프트웨어 개발 선언문"을 발표하게 된다.
 
-![Agile Menifesto](https://github.com/books/clean_software/image/agile-manifesto.png)  
+![Agile Menifesto](https://github.com/books/clean_software/images/agile-manifesto.png)  
 <pre>
 애자일 소프트웨어 개발 선언문
 
