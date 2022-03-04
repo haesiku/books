@@ -1,8 +1,8 @@
 # 클린 소프트웨어 (Agile Software Development)
 
 
-## Part 1 애자일 개발
-### Chapter 1 애자일 실천방법
+### Part 1 애자일 개발
+#### Chapter 1 애자일 실천방법
 ### Chapter 2 익스트림 프로그래밍 소개
 ### Chapter 3 계획 세우기
 ### Chapter 4 테스트
@@ -46,5 +46,7 @@
 ## Appendix 
 ### A UML 표기법 I : CGI 예제
 ### B UML 표기법 II : 스태트먹스
-### C ㄷ
-### D
+### C 두 기업에 대한 풍자
+### D 소스코드는 곧 설계다
+
+### Chapter 20 패킺 설계의 원칙
