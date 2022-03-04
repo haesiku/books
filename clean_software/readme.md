@@ -39,7 +39,12 @@
 ### Chapter 27 사례 연구 : 기사 관측기
 
 ## Part 6 ETS 사례 연구 
-### Chapter 28 
-### Chapter
-### Chapter
-### Chapter
+### Chapter 28 비지터 패턴 
+### Chapter 29 스테이트 패턴
+### Chapter 30 ETS 프레임워크
+
+## Appendix 
+### A UML 표기법 I : CGI 예제
+### B UML 표기법 II : 스태트먹스
+### C ㄷ
+### D
