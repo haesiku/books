@@ -38,6 +38,9 @@
 
 
 ### Chapter 2 익스트림 프로그래밍 소개
+액스트림 프로그래밍(XP, Extreme Programming은 켄트백 등이 제안한 소프트웨어 개발 방법으로 1999년 'Extreme Programming Explainedd Embarace Chage'책이 나왔다.
+이 
+액스트림 프로그래밍(XP, Extreme Programming은 켄트백 등이 제안한 소프트웨어 개발 방법으로 1999년 'Extreme Programming Explainedd Embarace Chage'책이 나왔다.
 ### Chapter 3 계획 세우기
 ### Chapter 4 테스트
 ### Chapter 5 리펙토링
