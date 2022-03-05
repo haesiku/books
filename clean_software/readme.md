@@ -60,10 +60,22 @@
 ### Chapter 5 리펙토링
 ### Chapter 6 프로그래밍 에피소드
 
+
 ## Part 2 애자일 설계
+설계가 변경이나 재활용하기 어렵고, 제대로 동작하지 않는 경우, 동작 하더라도 불필요하게 복잡하다면 설계를 잘못한 것이다. 이런 문제는 잘못 설계된 부분 뿐 아니라 소프트웨어 전체로 퍼진다.
+애자일 팀은 객체 지향 설계 원칙을 기반으로 잘된 설계, 최적의 설계를 해야 한다.
+
+<pre>
+1. 단일 책임 원칙 (SRP, Single Responsibility Principle)
+2. 개방 폐쇄 원치 (OCP, Open-Close Principle)
+3. 리스코프 치환 원칙 (LSP, Liskov Substitution Principle) 
+4. 의존 관계 역전 원칙 (DIP, Dependency Inversion Principle)
+5. 인터페이스 분리 원치 (ISP, Interface Segregation Principle) 
+</pre>
+
 ### Chapter 7 애자일 설계란 무엇인가? 
 ### Chapter 8 단일 책임 원칙 (SRP)
-### Chapter 9 개방 폐쇄 원치 (OCP)
+### Chapter 9 개방 폐쇄 원칙 (OCP)
 ### Chapter 10 리스코프 치환 원칙 (LSP) 
 ### Chapter 11 의존 관계 역전 원칙 (DIP)
 ### Chapter 12 인터페이스 분리 원치 (ISP) 
