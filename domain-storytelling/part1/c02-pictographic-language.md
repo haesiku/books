@@ -51,7 +51,7 @@
 
 ### Annotations (주석, 구성요소 등 모델에 대한 부연 설명)
 <p align="center">
-  <img width="680" height="180" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/annotations.png"/>
+  <img width="680" height="140" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/annotations.png"/>
 </p>
 <p align="center">Annotations (주석)</p>
 
@@ -87,7 +87,7 @@
 
 ### Colors (색상, 강조 또는 차별화를 표현하기 위해 아이콘/이름에 검정색 외 다른 색상으로 표시)
 <p align="center">
-  <img width="60" height="80" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/colors.png"/>
+  <img width="80" height="100" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/colors.png"/>
 </p>
 <p align="center">Colors (색상)</p>
 
@@ -97,7 +97,7 @@
 
 ### No Conditionals (조건 없음)
 <p align="center">
-  <img width="680" height="400" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/no-conditionals.png"/>
+  <img width="720" height="400" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/no-conditionals.png"/>
 </p>
 <p align="center">No Conditionals (조건 없음)</p>
 
