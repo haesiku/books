@@ -6,7 +6,7 @@ by Stefan Hofer, Henning Schwentner
 #### [Chapter 1: Introduction](https://github.com/haesiku/books/tree/main/domain-storytelling/part1/c01-introduction.md)
 What Is Domain Storytelling?
 Your First Domain Story
-#### Chapter 2: The Pictographic Language
+#### [Chapter 2: The Pictographic Language](https://github.com/haesiku/books/tree/main/domain-storytelling/part1/c02-pictographic-language.md)
 Actors
 Work Objects
 Activities
