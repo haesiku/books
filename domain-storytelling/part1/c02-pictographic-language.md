@@ -84,7 +84,7 @@
   - 하위 도메인(?)
 
 <p align="center">
-  <img width="400" height="520" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/groups-ex.png"/>
+  <img width="500" height="640" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/groups-ex.png"/>
 </p>
 <p align="center">(예시) 하위 도메인별로 그룹화된 영화 보기 스토리</p>
 
@@ -99,13 +99,13 @@
 색상은 어떤 모델링 도구를 사용하는지에 따라 사용할 색상이 결정될 수 있고, 이때는 색상의 의미를 나타내는 범례를 추가하는 것이 좋다.
 
 <p align="center">
-  <img width="520" height="520" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/colors-ex.png"/>
+  <img width="620" height="620" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/colors-ex.png"/>
 </p>
 <p align="center">(예시) 영화 보러가기 </p>
 
 ### No Conditionals (조건 없음)
 <p align="center">
-  <img width="720" height="400" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/no-conditionals.png"/>
+  <img width="620" height="320" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/no-conditionals.png"/>
 </p>
 <p align="center">No Conditionals (조건 없음)</p>
 
