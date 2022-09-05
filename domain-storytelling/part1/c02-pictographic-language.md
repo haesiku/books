@@ -33,7 +33,7 @@
 
 ### Activities (활동, Actors의 행위 또는 활동)
 <p align="center">
-  <img width="400" height="420" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/activities.png"/>
+  <img width="320" height="320" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/activities.png"/>
 </p>
 <p align="center">Activites (활동)</p>
 
@@ -41,7 +41,7 @@
 
 ### Sequence Numbers (일련 번호, 스토리를의 순서를 나타내는 숫자)
 <p align="center">
-  <img width="400" height="420" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/seq-numbers.png"/>
+  <img width="320" height="320" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/seq-numbers.png"/>
 </p>
 <p align="center">Sequence Numbers (일련 번호)</p>
 
@@ -51,7 +51,7 @@
 
 ### Annotations (주석, 구성요소 등 모델에 대한 부연 설명)
 <p align="center">
-  <img width="400" height="420" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/annotations.png"/>
+  <img width="240" height="420" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/annotations.png"/>
 </p>
 <p align="center">Annotations (주석)</p>
 
@@ -60,7 +60,7 @@
 
 ### Modeling Canvas (모델링 캔버스, 화이트보드 등 모델링할 공간으로 아날로그, 디지털 다 가능)
 <p align="center">
-  <img width="400" height="420" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/model-canvas.png"/>
+  <img width="600" height="600" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/model-canvas.png"/>
 </p>
 <p align="center">Modeling Canvas (모델링 캔버스)</p>
 
@@ -87,7 +87,7 @@
 
 ### Colors (색상, 강조 또는 차별화를 표현하기 위해 아이콘/이름에 검정색 외 다른 색상으로 표시)
 <p align="center">
-  <img width="400" height="420" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/colors.png"/>
+  <img width="120" height="120" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/colors.png"/>
 </p>
 <p align="center">Colors (색상)</p>
 
@@ -97,7 +97,7 @@
 
 ### No Conditionals (조건 없음)
 <p align="center">
-  <img width="400" height="420" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/no-conditionals.png"/>
+  <img width="400" height="620" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/no-conditionals.png"/>
 </p>
 <p align="center">No Conditionals (조건 없음)</p>
 
