@@ -41,7 +41,7 @@
 
 ### Sequence Numbers (일련 번호, 스토리를의 순서를 나타내는 숫자)
 <p align="center">
-  <img width="240" height="240" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/seq-numbers.png"/>
+  <img width="240" height="220" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/seq-numbers.png"/>
 </p>
 <p align="center">Sequence Numbers (일련 번호)</p>
 
