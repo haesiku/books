@@ -11,7 +11,7 @@
 <p align="center">
   <img width="400" height="420" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/c02/actors.png"/>
   
-  <p align="center">
+  Actors (사용자/역할자)
 </p>
 <p align="center">Actors (사용자/역할자)</p>
 - 도메인 스토리는 Actor의 관점에서 전달된다.
