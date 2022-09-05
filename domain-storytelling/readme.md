@@ -1,4 +1,4 @@
-# Domain Storytelling: A Collaborative, Visual, and Agile Way to Build Domain-Driven Software Author
+# Domain Storytelling: A Collaborative, Visual, and Agile Way to Build Domain-Driven Software
 by Stefan Hofer, Henning Schwentner
 
 ## Contents
