@@ -1,8 +1,8 @@
 # Chapter 2: The Pictographic Language (그림문자 언어)
 상호 의사소통이 가능한 수준으로 표현된 이미지/아이콘이라는 뜻으로 해석하는게 좋을 듯
 
-도메인 스토리 모델링이란?
-"누구(Actors)가 누구(Another Actors)오 무엇(Work Objexts)으로 무엇(Activties0을 하는지 시각화 하는 활동"
+> 도메인 스토리 모델링이란?
+> "누구(Actors)가 누구(Another Actors)오 무엇(Work Objexts)으로 무엇(Activties0을 하는지 시각화 하는 활동"
 
 ## 구성 요소
 ### Actors (액터, 사용자/역할자의 의미)
