@@ -112,5 +112,5 @@
 BPMN, Business Process Model and Notation과 비슷한데 분기/조건 부분을 단순화한 형태
 사용 이유, 목적에 대해서 좀더 알아보고 업데이트 예정
 
-[[Prev]](https://github.com/haesiku/books/tree/main/domain-storytelling/part1/c01-introduction.md) [[Home]](https://github.com/haesiku/books/tree/main/domain-storytelling/readme.md)[[Next]](https://github.com/haesiku/books/tree/main/domain-storytelling/part1/c03-Scenario-based-modeling.md) 
+[[Prev]](https://github.com/haesiku/books/tree/main/domain-storytelling/part1/c01-introduction.md) [[Home]](https://github.com/haesiku/books/tree/main/domain-storytelling/readme.md) [[Next]](https://github.com/haesiku/books/tree/main/domain-storytelling/part1/c03-Scenario-based-modeling.md) 
 
