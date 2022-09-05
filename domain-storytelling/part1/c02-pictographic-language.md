@@ -33,7 +33,7 @@
 
 ### Activities (활동, Actors의 행위 또는 활동)
 <p align="center">
-  <img width="320" height="320" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/activities.png"/>
+  <img width="260" height="260" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/activities.png"/>
 </p>
 <p align="center">Activites (활동)</p>
 
@@ -41,7 +41,7 @@
 
 ### Sequence Numbers (일련 번호, 스토리를의 순서를 나타내는 숫자)
 <p align="center">
-  <img width="300" height="320" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/seq-numbers.png"/>
+  <img width="240" height="260" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/seq-numbers.png"/>
 </p>
 <p align="center">Sequence Numbers (일련 번호)</p>
 
