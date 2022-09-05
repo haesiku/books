@@ -9,7 +9,7 @@
 ## 구성 요소
 ### Actors (액터, 사용자/역할자의 의미)
 <p align="center">
-  <img width="32" height="320" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/actors.png"/>
+  <img width="320" height="320" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/actors.png"/>
 </p>
 <p align="center">Actors (사용자/역할자)</p>
 
