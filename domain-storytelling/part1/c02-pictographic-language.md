@@ -8,8 +8,9 @@
 
 ## 구성 요소
 ### Actors (액터, 사용자/역할자의 의미)
-![Actors (사용자/역할자)](https://github.com/haesiku/books/blob/main/domain-storytelling/part1/c02/actors.png)
-<img width="400" height="420" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/c02/actors.png"/>Actors (사용자/역할자)
+<p align="center">
+  <img width="400" height="420" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/c02/actors.png"/>Actors (사용자/역할자)
+</p>
 - 도메인 스토리는 Actor의 관점에서 전달된다.
 - 의미를 명확하게 표현할 수 있는 아이콘을 그리고, 하단에 구체적인 역할의 이름을 작성한다. 일반적으로 명사형
 - 이름은 구체적이고 명확한 도메인 언어로 표현한다.
