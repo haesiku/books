@@ -60,7 +60,7 @@
 
 ### Modeling Canvas (모델링 캔버스, 화이트보드 등 모델링할 공간으로 아날로그, 디지털 다 가능)
 <p align="center">
-  <img width="640" height="640" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/model-canvas.png"/>
+  <img width="640" height="600" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/model-canvas.png"/>
 </p>
 <p align="center">Modeling Canvas (모델링 캔버스)</p>
 
@@ -83,7 +83,10 @@
   - 조직의 경계
   - 하위 도메인(?)
 
-하위 도메인 별로 그룹화된 "영화 보기" 스토리
+<p align="center">
+  <img width="400" height="520" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/groups-ex.png"/>
+</p>
+<p align="center">(예시) 하위 도메인별로 그룹화된 영화 보기 스토리</p>
 
 ### Colors (색상, 강조 또는 차별화를 표현하기 위해 아이콘/이름에 검정색 외 다른 색상으로 표시)
 <p align="center">
@@ -94,6 +97,11 @@
 일반적으로 도메인 스토리 모델은 검정색, 즉 흑백으로 표현하지만, 강조 또는 차이점을 시각화하기 위해새 색상으 추가할 수 있다.
 색상은 Actors, Activities 등 모든 유형에 적용할 수 있다.
 색상은 어떤 모델링 도구를 사용하는지에 따라 사용할 색상이 결정될 수 있고, 이때는 색상의 의미를 나타내는 범례를 추가하는 것이 좋다.
+
+<p align="center">
+  <img width="520" height="520" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/colors-ex.png"/>
+</p>
+<p align="center">(예시) 영화 보러가기 </p>
 
 ### No Conditionals (조건 없음)
 <p align="center">
