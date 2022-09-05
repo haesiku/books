@@ -21,7 +21,7 @@
 
 ### Work Objects (작업 객체, 객체 자체 또는 작업 객체에 대한 정보가 교환되는 매체)
 <p align="center">
-  <img width="440" height="480" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/work-objects.png"/>
+  <img width="480" height="440" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/work-objects.png"/>
 </p>
 <p align="center">Work Objects (작업 객체)</p>
 
