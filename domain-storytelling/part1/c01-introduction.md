@@ -20,4 +20,4 @@
 
 <추후 작성 예정>
 
-[[Home]](https://github.com/haesiku/books/tree/main/domain-storytelling/readme.md)
+[[Home]](https://github.com/haesiku/books/tree/main/domain-storytelling/readme.md) [Next](https://github.com/haesiku/books/tree/main/domain-storytelling/part1/c02-pictographic-language.md)
