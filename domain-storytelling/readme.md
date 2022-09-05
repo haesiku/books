@@ -3,7 +3,7 @@ by Stefan Hofer, Henning Schwentner
 
 ## Contents
 ### Part I: Domain Storytelling Explained
-#### [Chapter 1: Introduction](https://github.com/haesiku/books/tree/main/domain-storytelling/part1/c01-introduction)
+#### [Chapter 1: Introduction](https://github.com/haesiku/books/tree/main/domain-storytelling/part1/c01-introduction.md)
 What Is Domain Storytelling?
 Your First Domain Story
 #### Chapter 2: The Pictographic Language
