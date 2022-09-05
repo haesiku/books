@@ -51,7 +51,7 @@
 
 ### Annotations (주석, 구성요소 등 모델에 대한 부연 설명)
 <p align="center">
-  <img width="640" height="220" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/annotations.png"/>
+  <img width="680" height="180" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/annotations.png"/>
 </p>
 <p align="center">Annotations (주석)</p>
 
