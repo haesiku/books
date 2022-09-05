@@ -41,7 +41,7 @@
 
 ### Sequence Numbers (일련 번호, 스토리를의 순서를 나타내는 숫자)
 <p align="center">
-  <img width="240" height="260" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/seq-numbers.png"/>
+  <img width="240" height="240" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/seq-numbers.png"/>
 </p>
 <p align="center">Sequence Numbers (일련 번호)</p>
 
@@ -51,7 +51,7 @@
 
 ### Annotations (주석, 구성요소 등 모델에 대한 부연 설명)
 <p align="center">
-  <img width="480" height="220" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/annotations.png"/>
+  <img width="640" height="220" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c02/annotations.png"/>
 </p>
 <p align="center">Annotations (주석)</p>
 
