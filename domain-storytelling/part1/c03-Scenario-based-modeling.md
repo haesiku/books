@@ -1,9 +1,10 @@
-## Scenario-Based Modeling (시나리오 기반 모델링)
+# 3. Scenario-Based Modeling (시나리오 기반 모델링)
 
 > 도메인 스토리 == 시나리오
 > 시나리오란, 사람들 사이의 목표가 있는 행위를 Activities와 Event로 구성
 > 따라서, 시나리오 기반 모델링이란, 사람들 사이의 목표가 있는 행위를 누구나 이해할 수 있는 Actors, Work Objects, Ativities 등을 심플한 아이콘과 레이블로 표현한 것이다.
 
+## 구성요소
 ### What Are Scenarios?
 - 사람들과 그들의 활동에 대한 이야기
 - 목표가 있는 행위자가 포함
