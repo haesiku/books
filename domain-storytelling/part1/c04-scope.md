@@ -25,7 +25,7 @@
 모델링의 목적은 잘못된 것을 개선하거나, 문제를 해결하는 것이기 때문에 현재 상황을 문제영역으로 정한다. 또한 도메인 스토리를 통해 개선 방향이나 개선 방법을 탐색해서 솔루션 영역에 모델링 할 수도 있다.
 
 <p align="center">
-  <img width="480" height="120" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c04/point-in-time-ex.png"/>
+  <img width="480" height="160" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c04/point-in-time-ex.png"/>
 </p>
 <p align="center">From Metropolis 1a to Metropolis 2: An activity from a COARSE-GRAINED story is detailed in a FINE-GRAINED story</p>
 
