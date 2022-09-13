@@ -5,8 +5,21 @@
 
 ## 모델링 도구 유형 및 모델링 도구별 비교
 ### Modeling on Paper or Boards
+작은 그룹, 소규모 사람들과 함께 오프라인에서 특별한 준비 없이 종이와 펜만으로 모델링할 수 있다.
+
+<p align="center">
+  <img width="480" height="520" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c05/modeling-on-paper.png"/>
+</p>
+<p align="center">Modeling on Paper</p>
+
+도메인 스토리 모델링은 도메인 전문가와 인터뷰, 브레인 스토밍 형태로 진행하므로 수정이 자주 발생하는데 종이에 펜으로 모델링하는 경우 수정이 어렵다. 
+화이트보드에 스티커(포스트잇)를 사용해서 모델링하는 것도 좋다
+
+<작성중>
+
 
 ### Modeling with Software Tools
+
 ### Choosing a Tool
 도구 비교
 Tool|Group Size|Corrections|Usage|Modeling Support
