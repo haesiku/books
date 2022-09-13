@@ -14,6 +14,13 @@
 그림과 같이 스토리는 세분화의 수준에 따라 다르다.
 표현하려는 스토리에 맞게 수준을 정해서 모델링 하는 것이 중요하다. 즉 목적에 맞는 모델링이 필요하다.
 
+> 스토리텔링 표현 수준
+> - Cloud Level
+> - Kite Level
+> - Sea Level
+> - Fish Level
+> - Clam Level 
+
 ### Point in Time (AS-IS vs. TO-BE) (시점)
 ### Domain Purity (PURE vs. DIGITALIZED) (도메인의 순도)
 ### Combining the Scope Factors: A Typical Journey (범위 요소 결합: 일반적인 여정)
