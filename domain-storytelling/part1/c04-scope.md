@@ -17,10 +17,20 @@
 > 스토리텔링 표현 수준
 > - Cloud Level
 > - Kite Level
-> - Sea Level
+> - Sea Level : 보통 이 레벨에서 스토리텔링 모델링을 시작하며, 필요에 따라 상위 또는 하위 레벨 모델링한다.
 > - Fish Level
 > - Clam Level 
 
 ### Point in Time (AS-IS vs. TO-BE) (시점)
+모델링의 목적은 잘못된 것을 개선하거나, 문제를 해결하는 것이기 때문에 현재 상황을 문제영역으로 정한다. 또한 도메인 스토리를 통해 개선 방향이나 개선 방법을 탐색해서 솔루션 영역에 모델링 할 수도 있다.
+
+<p align="center">
+  <img width="600" height="360" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c04/point-in-time-ex.png"/>
+</p>
+<p align="center">From Metropolis 1a to Metropolis 2: An activity from a COARSE-GRAINED story is detailed in a FINE-GRAINED story</p>
+
+- AS-IS 스토리 : 이렇게 현재 상황을 문제영역으로 정하고 모델링하는 것, 현재 상황 == 문제 영역
+- TO-BE 스토리 : 개선 방향이나 방법을 솔루션 영역에 모델링하는 것, 개선된 상황 == 솔루션 영역
+
 ### Domain Purity (PURE vs. DIGITALIZED) (도메인의 순도)
 ### Combining the Scope Factors: A Typical Journey (범위 요소 결합: 일반적인 여정)
