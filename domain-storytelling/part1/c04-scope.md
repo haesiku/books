@@ -1,3 +1,5 @@
+[[Home]](https://github.com/haesiku/books/tree/main/domain-storytelling/readme.md)
+
 # Chapter 4: Scope (범위)
 > 도메인 스토리텔링은 스토리를 어느수준으로 상세히 설명할 것인지, 어느 범위를 설명할 것인지 정의해야 한다.
 
@@ -70,4 +72,6 @@
 As-is에 개선된 프로세스, 새로운 역할, 새로운 소프트웨어가 어떻게 추가/변경되는지 표현한다.
 세밀하고 디지털화된 To-be 스토리는 미래에 사람(역할자)과 소프트웨어 시스템이 함께 작동하는지를 보여준다. 즉, 이번 단계에서는 개선사항이 소프트웨어로 구현되었을 때 기존의 작업(프로세스)가 어떻게 변경되는지를 시각화한다.
 
+
+[[Prev]](https://github.com/haesiku/books/tree/main/domain-storytelling/part1/c03-scenario-based-modeling.md) [[Home]](https://github.com/haesiku/books/tree/main/domain-storytelling/readme.md) [[Next]](https://github.com/haesiku/books/tree/main/domain-storytelling/part1/c05-modeling-tools.md) 
 
