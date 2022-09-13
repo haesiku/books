@@ -27,11 +27,11 @@ by Stefan Hofer, Henning Schwentner
 - Point in Time (AS-IS vs. TO-BE)
 - Domain Purity (PURE vs. DIGITALIZED)
 - Combining the Scope Factors: A Typical Journey
-#### Chapter 5: Modeling Tools
+#### [Chapter 5: Modeling Tools](https://github.com/haesiku/books/tree/main/domain-storytelling/part1/c05-modeling-tools.md)
 - Modeling on Paper or Boards
 - Modeling with Software Tools
 - Choosing a Tool
-#### Chapter 6: The Workshop Format
+#### [Chapter 6: The Workshop Format](https://github.com/haesiku/books/tree/main/domain-storytelling/part1/c06-workshop-format.md)
 - Before the Workshop
 - The Workshop
 - After the Workshop
@@ -40,7 +40,7 @@ by Stefan Hofer, Henning Schwentner
 - The Moderator
 - The Modeler as Separate Role
 - Moderated Mode vs. Co-Op Mode
-#### Chapter 7: Relationship to Other Modeling Methods
+#### [Chapter 7: Relationship to Other Modeling Methods](https://github.com/haesiku/books/tree/main/domain-storytelling/part1/c07-relationship-other-modeling-methods.md)
 - Domain-Driven Design
 - EventStorming
 - User Story Mapping
@@ -51,7 +51,7 @@ by Stefan Hofer, Henning Schwentner
 - BPMN
 - Summary
 ### Part II: Using and Adapting Domain Storytelling for Different Purposes
-#### Chapter 8: Case Study—Alphorn Auto Leasing Inc. .
+#### Chapter 8: Case Study—Alphorn Auto Leasing Inc.
 - Explore Alphorn—The Domain as a Whole
 - Drill Down into Risk Assessment—Understanding an Important Subdomain
 - Clear Up Risk Assessment—Avoid Technical Jargon
