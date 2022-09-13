@@ -27,7 +27,7 @@
 <p align="center">
   <img width="480" height="160" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c04/point-in-time-ex.png"/>
 </p>
-<p align="center">From Metropolis 1a to Metropolis 2: An activity from a COARSE-GRAINED story is detailed in a FINE-GRAINED story</p>
+<p align="center">Points in time of a domain story (도메인 스토리 시점 예시)</p>
 
 - AS-IS 스토리 : 이렇게 현재 상황을 문제영역으로 정하고 모델링하는 것, 현재 상황 == 문제 영역
 - TO-BE 스토리 : 개선 방향이나 방법을 솔루션 영역에 모델링하는 것, 개선된 상황 == 솔루션 영역
