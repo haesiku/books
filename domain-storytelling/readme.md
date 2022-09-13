@@ -22,7 +22,7 @@ by Stefan Hofer, Henning Schwentner
 - Scenarios in Domain Storytelling
 - Concrete Examples as Scenarios
 - Keeping an Overview
-#### [Chapter 4: Scope](https://github.com/haesiku/books/tree/main/domain-storytelling/part1/c0r-scope.md)
+#### [Chapter 4: Scope](https://github.com/haesiku/books/tree/main/domain-storytelling/part1/c04-scope.md)
 - Granularity
 - Point in Time (AS-IS vs. TO-BE)
 - Domain Purity (PURE vs. DIGITALIZED)
