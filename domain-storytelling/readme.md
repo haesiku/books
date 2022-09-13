@@ -17,7 +17,7 @@ by Stefan Hofer, Henning Schwentner
 - No Conditionals
 - Putting It All Together
 - A Grammar for Domain Stories Good Language Style
-#### [Chapter 3: Scenario-Based Modeling](https://github.com/haesiku/books/tree/main/domain-storytelling/part1/c03-Scenario-based-modeling.md)
+#### [Chapter 3: Scenario-Based Modeling](https://github.com/haesiku/books/tree/main/domain-storytelling/part1/c03-scenario-based-modeling.md)
 - What Are Scenarios?
 - Scenarios in Domain Storytelling
 - Concrete Examples as Scenarios
