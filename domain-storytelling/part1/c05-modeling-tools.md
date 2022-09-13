@@ -9,16 +9,16 @@
 ### Modeling with Software Tools
 ### Choosing a Tool
 도구 비교
-|Tool|Group Size|Corrections|Usage|Modeling Support|
-
-|Sheet of paper|3 Hard|Spontaneous|None|
-|Flip chart (with stickies)|5 Hard|Spontaneous|None|
-|Whiteboard (with stickies)|7 OK|Spontaneous|None|
-|Whiteboard (with kit)|7 OK|Occasional|None|
-|Digitalized hand-drawing|10+ OK|Occasional|None|
-|Drawing tool|10+ Easy|Frequent|None|
-|Virtual whiteboard|10+ Easy|Frequent|None|
-|Egon.io|10+ Easy|Frequent|Good|
+Tool|Group Size|Corrections|Usage|Modeling Support
+----|----|----|----|----
+Sheet of paper|3 Hard|Spontaneous|None
+Flip chart (with stickies)|5 Hard|Spontaneous|None
+Whiteboard (with stickies)|7 OK|Spontaneous|None
+Whiteboard (with kit)|7 OK|Occasional|None
+Digitalized hand-drawing|10+ OK|Occasional|None
+Drawing tool|10+ Easy|Frequent|None
+Virtual whiteboard|10+ Easy|Frequent|None
+Egon.io|10+ Easy|Frequent|Good
 
 
 
