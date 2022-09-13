@@ -7,7 +7,7 @@
 
 아래 그림은 영화 관람객이 매표소에서 티켓을 구매하는 방법, 스토리를 상세하게 모델링 한 것이다. 
 <p align="center">
-  <img width="880" height="600" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c04/granularity-ex.png"/>
+  <img width="1168" height="782" src="https://github.com/haesiku/books/blob/main/domain-storytelling/part1/images/c04/granularity-ex.png"/>
 </p>
 <p align="center">From Metropolis 1a to Metropolis 2: An activity from a COARSE-GRAINED story is detailed in a FINE-GRAINED story</p>
 
