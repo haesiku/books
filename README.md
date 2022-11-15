@@ -4,6 +4,7 @@
 
 ## Agile
 - [클린 소프트웨어 (Agile Software Development)](https://github.com/haesiku/books/tree/main/clean_software/)
+- [애자일 & 스크럼 프로젝트 관리 (Understanding Agile & Scrum Project Management)](https://github.com/haesiku/books/tree/main/agile_scrum_project_management/)
 
 
 ## MSA & DDD
